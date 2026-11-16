@@ -1,0 +1,17 @@
+[
+  {
+    "login_id": "umesh",
+    "name": "Umesh Kumar",
+    "password": "123"
+  },
+  {
+    "login_id": "aarav_dev",
+    "name": "Aarav Sharma",
+    "password": "123"
+  },
+  {
+    "login_id": "ananya_ai",
+    "name": "Ananya Verma",
+    "password": "123"
+  }
+]
